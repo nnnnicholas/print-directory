@@ -1,0 +1,24 @@
+# .gitignore
+
+# Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore file metadata
+._*
+
+# Ignore temporary files
+*~
+*.swp
+*.swo
+
+# Ignore Bash command history
+.history
+
+# Ignore node modules
+node_modules
+
+# Ignore .env and mnemonic files
+.env
+mnemonic*
